@@ -6,20 +6,20 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: QQ2914115314
-Date: Mon, 28 Sep 2026 21:50:01 +0000
+Date: Tue, 29 Sep 2026 20:42:45 +0000
 MD5Sum:
  c3a219adda5efd0d7e47ec0f8def0e12           722588 Packages
- c4e4cf6e4a608562618597c24dbe56b6           180679 Packages.gz
+ 27d888ded71abf96f0bccb08acf81535           180679 Packages.gz
  2c4b165bef35149906016f679774a161           138947 Packages.bz2
 SHA1:
  8a6e170b06a05324d8e2b6f4bfa5b60a3b85ff56           722588 Packages
- 4b73bdb75989e11e1f3c8b7faa7bb3ba245da0fb           180679 Packages.gz
+ 76e5d13f242f97c41475a45f2f228b71ebd18fc1           180679 Packages.gz
  00fbf619e514c745a99b51e347c71a1a24709a7c           138947 Packages.bz2
 SHA256:
  669b73c1eac2f9069508ff7613c869103c270a2b73fd2ed3e287333631549418           722588 Packages
- 4e9aa22e72fa05285c50a6d8f47da3acbdae1c657c4673267a68d33a7b1f8387           180679 Packages.gz
+ 014606ec4ae116bc40fb5cd9d0ef47a4d3c63f6ec225fc6583fda5d1e08d3f04           180679 Packages.gz
  bbf7f6eac16b8d3ad21e293919abd1a44af5c59efa58a0120b872d5544fffce0           138947 Packages.bz2
 SHA512:
  5a2a7ea25a85a489e0202bf00ae5fc2b7f05197fd639ac5ed6e9a80ae3d3cd943f05392cf77b8aacb272ee0d7a7651b87578b5a35d2dc3f7c864d227536496bc           722588 Packages
- 18e54061f83bb3bc4b585722d266b8e2cedb167d29e83468eae7b252bec47f7494074fb074deeb356cbe468ee9cc318960caeef440444c08a2013b25a25bd3aa           180679 Packages.gz
+ 00747d53b350e3cb26cfee560a32e2c9440408337824173c6afde47e5ec5990caaf5d2a4ff573ecb491285d022d6ca0dfc3a4168ea41f10a892b2ad17383574a           180679 Packages.gz
  131bb9ae3143d6a797ad85ca2709a6965399358bbb1574946f2121d1b87d2c21e10cba407d15ab984bc36b0839a2f419224b177ef6a74b23a8987f8dd13df8a3           138947 Packages.bz2
